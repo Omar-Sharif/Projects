@@ -1,3 +1,2 @@
 # cse1to4
-Online Repository of CSE, CUET
-This is the Branch for M. A. Muhaimin Sakib
+Contents that have been used for preparing **cse1to4** website.
